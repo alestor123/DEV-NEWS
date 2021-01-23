@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alestor123/DEV-NEWS#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0"
   }
 }
